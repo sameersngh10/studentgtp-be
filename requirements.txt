@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+langchain_google_genai
+langchain_community
+python-dotenv
+pinecone-client
+langchain_core
+langchain_pinecone
+fastapi
